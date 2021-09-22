@@ -1,9 +1,8 @@
-# FORK
+# Mitmproxy 
+This is the fork of official mitmproxy github page.
 
 Mitmproxy is a forward and reverse proxy, launched by default on port 8080.
 (Ubuntu version)
-
-This is the fork of official mitmproxy github page.
 
 ## Setup the forward proxy
 
